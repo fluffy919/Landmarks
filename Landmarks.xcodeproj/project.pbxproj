@@ -64,6 +64,7 @@
 		01ED243F264050E000CF178A /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E75F2D263C49B40085E9DA /* Hike.swift */; };
 		01ED2440264050E000CF178A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01CF86F52625F67E006C0311 /* Assets.xcassets */; };
 		01ED2441264050E000CF178A /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E75F46263C6F890085E9DA /* Profile.swift */; };
+		01ED2446264052DC00CF178A /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01ED2445264052DC00CF178A /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -159,6 +160,7 @@
 		01ED242126404DEF00CF178A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		01ED242326404DEF00CF178A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01ED242426404DEF00CF178A /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		01ED2445264052DC00CF178A /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -351,6 +353,7 @@
 				01ED242326404DEF00CF178A /* Info.plist */,
 				01ED242426404DEF00CF178A /* PushNotificationPayload.apns */,
 				01ED242026404DEF00CF178A /* Preview Content */,
+				01ED2445264052DC00CF178A /* LandmarkDetail.swift */,
 			);
 			path = "WatchLandmarks Extension";
 			sourceTree = "<group>";
@@ -543,6 +546,7 @@
 				01ED2441264050E000CF178A /* Profile.swift in Sources */,
 				01ED241926404DE900CF178A /* NotificationController.swift in Sources */,
 				01ED2437264050E000CF178A /* LandmarksApp.swift in Sources */,
+				01ED2446264052DC00CF178A /* LandmarkDetail.swift in Sources */,
 				01ED241726404DE900CF178A /* ContentView.swift in Sources */,
 				01ED243F264050E000CF178A /* Hike.swift in Sources */,
 				01ED241D26404DE900CF178A /* ComplicationController.swift in Sources */,
